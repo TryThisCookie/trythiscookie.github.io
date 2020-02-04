@@ -3,8 +3,8 @@ body {
     background-color: rgb(107, 99, 177);
     background-image: url(img/background-filtered.jpg);
     background-attachment: fixed;
-    background-size: cover;
     background-position: center top;
+    background-size: auto 100%;
     font-family: poppins;
     color: white;
 }
