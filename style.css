@@ -4,7 +4,7 @@ body {
     background-image: url(img/background-filtered.jpg);
     background-attachment: fixed;
     background-size: cover;
-    background-position: center;
+    background-position: center top;
     font-family: poppins;
     color: white;
 }
@@ -42,15 +42,15 @@ body {
 }
 
 .site-name {
-    font-size: 23px;
+    font-size: 1.2em;
 }
 
 .powered-by {
-    font-size: 13px;
+    font-size: 0.8em;
 }
 
 .powered-by a {
-    font-size: 16px;
+    font-size: 1em;
 }
 
 .btn {
@@ -67,9 +67,10 @@ body {
 
 .header-button {
     margin-right: 5px;
-    padding: 0 10px;
+    padding: 0 0.4em;
     flex-shrink: 0;
     height: 70%;
+    font-size: 0.8em;
 }
 
 .salad-green {
@@ -100,7 +101,7 @@ body {
 }
 
 .form-block {
-    margin: 0px 40px;
+    margin: 0px 5%;
 }
 
 .form-header {
