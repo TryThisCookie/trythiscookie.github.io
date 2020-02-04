@@ -33,7 +33,7 @@ body {
 
 .header-title p {
     margin: 0;
-    line-height: 18px;
+    line-height: 0.9em;
 }
 
 .header-title a {
@@ -42,7 +42,7 @@ body {
 }
 
 .site-name {
-    font-size: 1.2em;
+    font-size: 1.1em;
 }
 
 .powered-by {
